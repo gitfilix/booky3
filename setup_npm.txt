@@ -1,4 +1,20 @@
 npm setup
 
+#install webpack globaly for some ###3 resaon
+npm install --save-dev webpack -g
 
-npm install --save-dev webpack
+
+npm run build
+
+#start server
+npm start
+
+Filix-iMac:book_api_app FLX$ npm start
+
+> booky-3@1.0.1 start /Users/FLX/Documents/web/book_api_app
+> webpack-dev-server
+
+Project is running at http://localhost:3001/
+
+#install further react shissle
+npm install babel-preset-react react react-dom react-bootstrap --save-dev
